@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="29px" viewBox="0 0 29 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.000391891892 28.9996081 0.000391891892 28.9996081 29 0 29"></polygon>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/add">
+            <g id="Group-8">
+                <g id="Group-3">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M28.9996865,14.5001959 C28.9996865,6.49208108 22.5079973,0.000391891892 14.4998824,0.000391891892 C6.49176757,0.000391891892 -0.000117567568,6.49208108 -0.000117567568,14.5001959 C-0.000117567568,22.5081149 6.49176757,29 14.4998824,29 C22.5079973,29 28.9996865,22.5081149 28.9996865,14.5001959" id="Fill-1" fill="#BCBDC0" mask="url(#mask-2)"></path>
+                </g>
+                <path d="M13.9999052,25 C12.8999099,25 12,24.0952563 12,22.9895854 L12,8.01041458 C12,6.90474375 12.8999099,6 13.9999052,6 C15.0999004,6 16,6.90474375 16,8.01041458 L16,22.9895854 C16,24.0952563 15.0999004,25 13.9999052,25" id="Fill-4" fill="#FFFFFF"></path>
+                <path d="M4,14.9999052 C4,13.8999099 4.9523714,13 6.11604643,13 L21.8839536,13 C23.0478293,13 24,13.8999099 24,14.9999052 C24,16.0999004 23.0478293,17 21.8839536,17 L6.11604643,17 C4.9523714,17 4,16.0999004 4,14.9999052" id="Fill-6" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

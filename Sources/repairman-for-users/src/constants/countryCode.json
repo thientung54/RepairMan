@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Vietnam",
+        "flag": "../../assets/images/countryFlag/Vietnam.png",
+        "code": "+84"
+    },
+    {
+        "name": "Malaysia",
+        "flag": "../../assets/images/countryFlag/Malaysia.png",
+        "code": "+60"
+    },
+    {
+        "name": "Thailand",
+        "flag": "../../assets/images/countryFlag/Thailand.png",
+        "code": "+66"
+    },
+    {
+        "name": "Laos",
+        "flag": "../../assets/images/countryFlag/Laos.png",
+        "code": "+856"
+    },
+    {
+        "name": "Cambodia",
+        "flag": "../../assets/images/countryFlag/Cambodia.png",
+        "code": "+855"
+    }
+]

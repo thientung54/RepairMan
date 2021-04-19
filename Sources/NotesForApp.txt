@@ -1,0 +1,7 @@
+"android": "react-native run-android --port=9988",
+"start": "react-native start --port 9988",
+---
+adb reverse tcp:8081 tcp:9988
+adb devices
+---
+cd android && ./gradlew clean
